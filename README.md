@@ -23,7 +23,8 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -132,10 +133,13 @@ Publish the website in the given URL.
   </script>
 
 </body>
-</html>```
+</html>
+```
 
 # OUTPUT
 ![alt text](<Screenshot 2025-12-19 105851.png>)
 ![alt text](<Screenshot 2025-12-19 105858.png>)
+
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
